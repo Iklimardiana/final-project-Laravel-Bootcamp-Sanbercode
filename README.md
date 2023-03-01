@@ -6,7 +6,7 @@
 
 - Iklima Mardiana (https://github.com/iklimardiana)
 - Berlian Fatimah Haryoko (https://github.com/berlianfatimah)
-- Idham Setia Budi (@kapiten-orca)
+- Idham Setia Budi (https://github.com/kapiten-orca)
 
 ## Tema Project
 
