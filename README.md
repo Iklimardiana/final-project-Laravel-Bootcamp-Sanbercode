@@ -4,8 +4,8 @@
 
 ## Anggota Kelompok
 
-- Iklima Mardiana (@iklimardiana)
-- Berlian Fatimah Haryoko (@berlianfatimah)
+- Iklima Mardiana (https://github.com/iklimardiana)
+- Berlian Fatimah Haryoko (https://github.com/berlianfatimah)
 - Idham Setia Budi (@kapiten-orca)
 
 ## Tema Project
